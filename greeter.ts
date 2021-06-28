@@ -1,4 +1,4 @@
-const greeter = (person) => "Hello, " + person;
+const greeter = (person: string) => "Hello, " + person;
 
 let user = "Jane User";
 
